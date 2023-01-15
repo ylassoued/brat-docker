@@ -1,6 +1,6 @@
 # NOTE
 
-I am no longer doing anything with brat and am not maintaining this at all. 
+This project is based on Caroline Johnston's brat-docker project. The onlz difference is that it clones Brat from the GitHub repo instead of dwonloading it from http://weaver.nlplab.org/~brat/releases/brat-v1.3_Crunchy_Frog.tar.gz, which is not available anymore. 
 
 # brat docker
 
